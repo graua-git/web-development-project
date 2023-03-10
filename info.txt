@@ -1,0 +1,7 @@
+On the REST API run:
+npm install mongodb mongoose express nodemon --save
+npm start
+
+On the React App run:
+npm install --save
+npm start
