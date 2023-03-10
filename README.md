@@ -5,6 +5,7 @@ This simple website can log exercises and stores them in a database so you can v
 This was my final project for Web Development at Oregon State University
 
 ## Requirements
+This repo does not include node modules, so we need to install them.
 #### In exercise-rest (REST API):
 npm install mongodb mongoose express nodemon --save
 <br />
