@@ -4,9 +4,9 @@
 ### This was my final project for Web Development at Oregon State University
 
 ## Requirements
-### In exercise-rest (REST API):
-### npm install mongodb mongoose express nodemon --save
-### npm start
-### In exercise-ui (React App):
-### npm install --save
-### npm start
+In exercise-rest (REST API):
+npm install mongodb mongoose express nodemon --save
+npm start
+In exercise-ui (React App):
+npm install --save
+npm start
